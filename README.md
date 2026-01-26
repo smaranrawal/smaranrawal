@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello, I'm Smaran Rawal 👋</h1>
 
-<h3 align="center">Passionate Fullstack Web Developer | BSc CSIT Student</h3>
+<h3 align="center">Passionate Fullstack Developer | BSc CSIT Student</h3>
 
 ---
 
